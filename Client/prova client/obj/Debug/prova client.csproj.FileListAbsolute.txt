@@ -1,0 +1,88 @@
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\bin\Debug\prova client.exe.config
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\bin\Debug\prova client.exe
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\bin\Debug\prova client.pdb
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova client.csproj.AssemblyReference.cache
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova_client.Form1.resources
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova_client.Properties.Resources.resources
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova client.csproj.GenerateResource.cache
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova client.csproj.CoreCompileInputs.cache
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova client.exe
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova client.pdb
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova_client.Form2.resources
+D:\sistemi\quarta\Progetto TCP\prova client\prova client\obj\Debug\prova_client.Stanza.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\bin\Debug\prova client.exe.config
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\bin\Debug\prova client.exe
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\bin\Debug\prova client.pdb
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova client.csproj.AssemblyReference.cache
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova_client.Form1.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova_client.Form2.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova_client.Properties.Resources.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova_client.Stanza.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova client.csproj.GenerateResource.cache
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova client.csproj.CoreCompileInputs.cache
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova client.exe
+D:\sistemi\quarta\Progetto TCP\prova clientV2\prova client\obj\Debug\prova client.pdb
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\bin\Debug\prova client.exe.config
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\bin\Debug\prova client.exe
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\bin\Debug\prova client.pdb
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.csproj.AssemblyReference.cache
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Form1.resources
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Form2.resources
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Properties.Resources.resources
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Stanza.resources
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.csproj.GenerateResource.cache
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.csproj.CoreCompileInputs.cache
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.exe
+C:\Users\iacopo\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.pdb
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\bin\Debug\prova client.exe.config
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\bin\Debug\prova client.exe
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\bin\Debug\prova client.pdb
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Form1.resources
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Form2.resources
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Properties.Resources.resources
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Stanza.resources
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.exe
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.pdb
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova client.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Progetto Sistemi\prova clientV2\prova client\obj\Debug\prova_client.Login.resources
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.exe.config
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.exe
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.pdb
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.AssemblyReference.cache
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Form1.resources
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Form2.resources
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Login.resources
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Properties.Resources.resources
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Stanza.resources
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.GenerateResource.cache
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.exe
+C:\Users\Luca\Desktop\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.pdb
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.exe.config
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.exe
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.pdb
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Form1.resources
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Form2.resources
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Login.resources
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Properties.Resources.resources
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Stanza.resources
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.GenerateResource.cache
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.CoreCompileInputs.cache
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.exe
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.pdb
+C:\Users\iacopo\Desktop\Pogetto Multi\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.AssemblyReference.cache
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.exe.config
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.exe
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\bin\Debug\prova client.pdb
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.AssemblyReference.cache
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Form1.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Form2.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Login.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Properties.Resources.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova_client.Stanza.resources
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.GenerateResource.cache
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.csproj.CoreCompileInputs.cache
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.exe
+D:\sistemi\quarta\Progetto TCP\prova clientV2+ interfaccia\prova client\obj\Debug\prova client.pdb

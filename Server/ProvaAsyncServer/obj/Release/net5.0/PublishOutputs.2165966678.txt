@@ -1,0 +1,5 @@
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\publish\ProvaAsyncServer.exe
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\publish\ProvaAsyncServer.dll
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\publish\ProvaAsyncServer.deps.json
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\publish\ProvaAsyncServer.runtimeconfig.json
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\publish\ProvaAsyncServer.pdb

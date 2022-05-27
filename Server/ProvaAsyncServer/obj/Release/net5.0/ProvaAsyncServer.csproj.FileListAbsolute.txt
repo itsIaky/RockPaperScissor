@@ -1,0 +1,16 @@
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\ProvaAsyncServer.exe
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\ProvaAsyncServer.deps.json
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\ProvaAsyncServer.runtimeconfig.json
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\ProvaAsyncServer.runtimeconfig.dev.json
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\ProvaAsyncServer.dll
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\ref\ProvaAsyncServer.dll
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\bin\Release\net5.0\ProvaAsyncServer.pdb
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.csproj.AssemblyReference.cache
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.AssemblyInfoInputs.cache
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.AssemblyInfo.cs
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.csproj.CoreCompileInputs.cache
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.dll
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ref\ProvaAsyncServer.dll
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.pdb
+C:\Users\iacopo\source\repos\ProvaAsyncServer\ProvaAsyncServer\obj\Release\net5.0\ProvaAsyncServer.genruntimeconfig.cache
